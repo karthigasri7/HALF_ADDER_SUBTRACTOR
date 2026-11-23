@@ -79,3 +79,5 @@ Developed by:Karthiga sri  RegisterNumber:212225040175
 <img width="1752" height="877" alt="image" src="https://github.com/user-attachments/assets/7ecdcf0a-489b-4c70-af90-3905545ae06e" />
 
 **Result:**
+
+hus, the Half Adder and Half Subtractor circuits were designed and implemented successfully. The truth tables were verified, and the outputs (Sum, Carry, Difference, and Borrow) were obtained correctly.
